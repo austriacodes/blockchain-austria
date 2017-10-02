@@ -43,13 +43,13 @@ Join the [**Ruby Habits Learn-Togethers**](http://rubyhabits.github.io) for hand
 ## Blockchain Projects
 
 
-[**Awewsome Blockchains**](https://github.com/openblockchains/awesome-blockchains) - 
+[**Awewsome Blockchains**](https://github.com/openblockchains/awesome-blockchains) -- 
 _Learn about Blockchains by Building One_
 
-[**Schilling on the Blockchain**](https://github.com/openblockchains/schilling) @ Awesome Blockchains - 
+[**Schilling on the Blockchain**](https://github.com/openblockchains/schilling) @ Awesome Blockchains -- 
 _Public Distributed (Hyper) Ledger Book - Rock-Solid Alpine Dollar from Austria_
 
-[**Tulips on the Blockchain**](https://github.com/openblockchains/tulips) @ Awesome Blockchains -
+[**Tulips on the Blockchain**](https://github.com/openblockchains/tulips) @ Awesome Blockchains --
 _Public Distributed (Hyper) Ledger Book - Learn by Example from the Real World (Anno 1637) - 
 Buy! Sell! Hold! Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More_
 
@@ -77,10 +77,22 @@ by Gerald Bauer
 
 [**Blockchain Austria (Government Edition)**](https://www.blockchain-austria.gv.at)
 
-[**Bitcoin Austria**](https://bitcoin-austria.at), [**Bitcoin Austria Meetup**](https://meetup.com/Bitcoin-Austria)
+[**Bitcoin Austria**](https://bitcoin-austria.at) - 
+[(github)](https://github.com/bitcoinaustria),
+[**Bitcoin Austria Meetup**](https://meetup.com/Bitcoin-Austria)
 
 [**Blockchainers Vienna, Austria Meetup**](https://meetup.com/blockchainers-vienna)
 
+[**RIAT (Research Institute Austria)**](https://riat.ac.at) -- 
+_institute for research, development, communication and education in the fields of crypto-economics, the blockchain, experimental artistic technology and open hardware_.
+
+
+[**Ethereum Vienna, Austria Meetup**](https://meetup.com/Ethereum-Vienna) -
+[(github)](https://github.com/ethereum-vienna-meetup) --
+_Cryptocurrencies 2.0 have the power to change how we conduct global commerce and govern our society on a profound level. 
+Ethereum is a platform for trustless and decentralized applications. 
+Potential examples are simple payments, registrar services, crowdfunding, implementing other currencies, prediction markets, fully decentralized exchanges or even decentralized autonomous organizations.
+We contribute to this movement by bringing together interested locals, enthusiasts and veterans for a meetup in Vienna, Austria._
 
 
 [**Awesome Open Data Austria**](https://github.com/planetopendata/awesome-austria) 
