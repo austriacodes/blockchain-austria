@@ -4,10 +4,10 @@
 
 Distributed Database •
 Hyper Ledger Book •
-Consensus with Proof-of-Work or Proof-of-Stake •
+Consensus • Proof-of-Work • Proof-of-Stake • Proof-of-Pudding •
 Digital Fingerprints • Cryptographic Hashes •
 Lottery • Central Bank •
-Byzantine-Generals Solution
+Byzantine Generals
 
 
 # Blockchain Austria • Blockkette Österreich (Hacker Edition)
@@ -21,13 +21,13 @@ It's an umbrella organization to learn about Blockchain! Blockchain! Blockchain!
 
 ```ruby
 b0 = Block.first(
-        { from: "Grossklockner", to: "Franz", amount: 3798 } )
+        { from: "Grossklockner", to: "Franz",  amount: 3798 } )
 
 b1 = Block.next( b0,
-        { from: "Dachstein",    to: "Sissi",   amount: 2995  },
-        { from: "Sissi",        to: "Maria",   amount: 11  },
-        { from: "Franz",        to: "Ferdl",   amount: 7  },
-        { from: "Maria",        to: "Eva",     amount: 3  } )
+        { from: "Dachstein",     to: "Sissi",  amount: 2995 },
+        { from: "Sissi",         to: "Maria",  amount: 11   },
+        { from: "Franz",         to: "Ferdl",  amount: 7    },
+        { from: "Maria",         to: "Eva",    amount: 3    } )
 ...
 ```
 
@@ -58,19 +58,32 @@ Buy! Sell! Hold! Enjoy the Beauty of Admiral of Admirals, Semper Augustus and Mo
 [**Blockchain Lite Library (JavaScript Edition)**](https://github.com/openblockchains/blockchain.lite.js), FREE
 
 
-Add Your Project Here!
+[Add Your Project Here!](https://github.com/blockchainaustria/blockchainaustria.github.io/blob/master/README.md)
 
 
 
-**Notes, Comments, Talks, & More**
+## Notes, Comments, Talks, & More
+
+[**Talk Notes - Blockchain! Blockchain! Blockchain! - Build Your Own Blockchains in JavaScript from Zero (Scratch)**](https://github.com/geraldb/talks/blob/master/blockchain.md) 
+by Gerald Bauer
+
+[**Talk Notes - Land der Berge! Land der Blockchain! Austria**](https://github.com/geraldb/talks/blob/master/blockchain_austria.md)
+by Gerald Bauer
 
 
 
 
-**More Blockchain Initiatives in Austria**
+## More Blockchain Initiatives in Austria
+
+[**Blockchain Austria (Government Edition)**](https://www.blockchain-austria.gv.at)
+
+[**Bitcoin Austria**](https://bitcoin-austria.at), [**Bitcoin Austria Meetup**](https://meetup.com/Bitcoin-Austria)
+
+[**Blockchainers Vienna, Austria Meetup**](https://meetup.com/blockchainers-vienna)
 
 
-[Open Data Austria]()
 
+[**Awesome Open Data Austria**](https://github.com/planetopendata/awesome-austria) 
 
+[Add Your Initiative Here!](https://github.com/blockchainaustria/blockchainaustria.github.io/blob/master/README.md)
 
