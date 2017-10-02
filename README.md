@@ -10,7 +10,7 @@ Lottery • Central Bank •
 Byzantine Generals
 
 
-# Blockchain Austria • Blockkette Österreich (Hacker Edition)
+# Blockchain Austria • Blockkette Österreich (Decentralized Hacker Edition)
 
 _Revolutionize Austria one Block at a Time. Land der Berge! Land der Blockchain!_
 
