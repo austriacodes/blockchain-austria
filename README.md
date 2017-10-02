@@ -77,22 +77,31 @@ by Gerald Bauer
 
 [**Blockchain Austria (Government Edition)**](https://www.blockchain-austria.gv.at)
 
-[**Bitcoin Austria**](https://bitcoin-austria.at) - 
-[(github)](https://github.com/bitcoinaustria),
-[**Bitcoin Austria Meetup**](https://meetup.com/Bitcoin-Austria)
+[**Bitcoin Austria**](https://bitcoin-austria.at), 
+[(github)](https://github.com/bitcoinaustria) •
+[**Bitcoin Austria Meetup**](https://meetup.com/Bitcoin-Austria) -- 
+_we are an austrian non-profit organization founded 2011
+with the aim to promote Bitcoin in Austria. We organize regular meetups for everyone interested in Bitcoin._
 
-[**Blockchainers Vienna, Austria Meetup**](https://meetup.com/blockchainers-vienna)
+
+[**Blockchainers Vienna, Austria Meetup**](https://meetup.com/blockchainers-vienna) --
+_everyone who is interested in blockchain technology is welcome: explainations, uses case, the future, technology behind. 
+we strongly focus on technical aspects and NOT buzzword presentations._
 
 [**RIAT (Research Institute Austria)**](https://riat.ac.at) -- 
 _institute for research, development, communication and education in the fields of crypto-economics, the blockchain, experimental artistic technology and open hardware_.
 
 
-[**Ethereum Vienna, Austria Meetup**](https://meetup.com/Ethereum-Vienna) -
+[**Ethereum Vienna, Austria Meetup**](https://meetup.com/Ethereum-Vienna),
 [(github)](https://github.com/ethereum-vienna-meetup) --
-_Cryptocurrencies 2.0 have the power to change how we conduct global commerce and govern our society on a profound level. 
+_cryptocurrencies have the power to change how we conduct global commerce and govern our society on a profound level. 
 Ethereum is a platform for trustless and decentralized applications. 
 Potential examples are simple payments, registrar services, crowdfunding, implementing other currencies, prediction markets, fully decentralized exchanges or even decentralized autonomous organizations.
 We contribute to this movement by bringing together interested locals, enthusiasts and veterans for a meetup in Vienna, Austria._
+
+
+[**NEM (New Economy Movement) Vienna, Austria Meetup**](https://meetup.com/NEM-Vienna) -- 
+_a group for anyone interested in the NEM (New Economy Movement) blockchain platform or the XEM cryptocurrency. Don't hesitate to join us to get to know more about NEM and the community surrounding it._
 
 
 [**Awesome Open Data Austria**](https://github.com/planetopendata/awesome-austria) 
