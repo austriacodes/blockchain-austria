@@ -113,3 +113,33 @@ _a group for anyone interested in the NEM (New Economy Movement) blockchain plat
 
 [Add Your Initiative Here!](https://github.com/blockchainaustria/blockchainaustria.github.io/blob/master/README.md)
 
+
+
+## Timeline of the Blockchain Revolution in Austria
+
+| Year         | Highlight                         |
+| -------------|-----------------------------------|
+| 2011 - Sept  | Bitcoin Austria Started           |
+|              |                                   |
+| 2012 - Dec   | 1st Bitcoin Meetup in Graz        |
+|              |                                   |
+| 2014 - March | Ethereum Meetup Started           |
+| 2014 - April | Coinfinity Founded in Graz ++ 1st Bitcoin ATM in Austria (Graz) |
+|              |                                   |
+| 2015 - Feb   | Bitcoins Available in 600 Trafiken via Bitcoinbon |
+|              |                                   |
+| 2016 - April | Dodgecoin Austria Meetup Started  |
+| 2016 - June  | Blockchainhub Graz Started        |
+|              |                                   |
+| 2017 - Jan   | House of Nakamato Opens (in Vienna) ++ 1st Bitcoin Store |
+| 2017 - April | Monero Austria Started            |
+| 2017 - April | NEM (New Economy Movement) Vienna Meetup Started  |
+| 2017 - July  | Bitcoins Available Nationwide at Post Offices     |
+| 2017 - Oct   | Blockchain Austria (Hacker Ed.) Started  |
+
+[Add Your Highlight Here!](https://github.com/blockchainaustria/blockchainaustria.github.io/blob/master/README.md)
+
+
+
+
+
