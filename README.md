@@ -75,7 +75,7 @@ by Gerald Bauer
 
 ## More Blockchain Initiatives in Austria
 
-[**Blockchain Austria (Government Edition)**](https://www.blockchain-austria.gv.at)
+[**Blockchain Austria (Centralized Government Edition)**](https://www.blockchain-austria.gv.at)
 
 [**Bitcoin Austria**](https://bitcoin-austria.at), 
 [(github)](https://github.com/bitcoinaustria) •
