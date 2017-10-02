@@ -83,11 +83,6 @@ by Gerald Bauer
 _we are an austrian non-profit organization founded 2011
 with the aim to promote Bitcoin in Austria. We organize regular meetups for everyone interested in Bitcoin._
 
-
-[**Blockchainers Vienna, Austria Meetup**](https://meetup.com/blockchainers-vienna) --
-_everyone who is interested in blockchain technology is welcome: explainations, uses case, the future, technology behind. 
-we strongly focus on technical aspects and NOT buzzword presentations._
-
 [**RIAT (Research Institute for Arts and Technology) incl. Blockchain Academy**](https://riat.ac.at) -- 
 _institute for research, development, communication and education in the fields of crypto-economics, the blockchain, experimental artistic technology and open hardware._
 
@@ -104,11 +99,15 @@ _group for people interested in the cryptocurrency Monero (XMR). The meetup focu
 Topics are for various skill-sets. Meetups are also used to communicate the results of the Monero Workgroup 
 at RIAT (Research Institute for Arts and Technology)._
 
-[**Dogecoin Vienna, Austria Meeupt**](https://meetup.com/Dogecoin-Austria-Meetup) --
+[**Dogecoin Vienna, Austria Meetup**](https://meetup.com/Dogecoin-Austria-Meetup) --
 _spreading the Doge in Austria, "Dogecoin Austria Meetup" is hosted by RIAT (Research Institute for Arts and Technology).
 A group about the cryptocurrency Dogecoin - to discuss and reflect about cryptocurrencies as distributed community experiments. 
 Ideal members are people interested in Dogecoin, but can be also people who want to learn and discuss._ 
 
+
+[**Blockchainers Vienna, Austria Meetup**](https://meetup.com/blockchainers-vienna) --
+_everyone who is interested in blockchain technology is welcome: explainations, uses case, the future, technology behind. 
+we strongly focus on technical aspects and NOT buzzword presentations._
 
 
 [**Hyperledger Vienna, Austria Meetup**](https://meetup.com/Hyperledger-Vienna),
