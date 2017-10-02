@@ -12,41 +12,53 @@ Byzantine-Generals Solution
 
 # Blockchain Austria • Blockkette Österreich (Hacker Edition)
 
-_Revolutionize Austria one Block at a Time_
+_Revolutionize Austria one Block at a Time. Land der Berge! Land der Blockchain!_
 
 
-**What's Blockchain Austria?**
+## What's Blockchain Austria?
 
 It's an umbrella organization to learn about Blockchain! Blockchain! Blockchain! together with a focus on Code! Code! Code!
 
 ```ruby
+b0 = Block.first(
+        { from: "Grossklockner", to: "Franz", amount: 3798 } )
 
+b1 = Block.next( b0,
+        { from: "Dachstein",    to: "Sissi",   amount: 2995  },
+        { from: "Sissi",        to: "Maria",   amount: 11  },
+        { from: "Franz",        to: "Ferdl",   amount: 7  },
+        { from: "Maria",        to: "Eva",     amount: 3  } )
+...
 ```
 
-
-**Meetups, Hands-On Coding Togethers, & More**
-
-
-Join the [Vienna.rb meetups]() for talks on blockchain-lite and friends. FREE.
-
-Join the [Ruby Habits learn-togethers]() for hands-on coding with blockchain-lite and friends. FREE. 
+## Meetups, Hands-On Coding Togethers, & More
 
 
+Join the [**Vienna.rb Meetups**](https://meetup.com/vienna-rb) for talks on blockchain-lite and friends. FREE.
 
-**Blockchain Projects**
+Join the [**Ruby Habits Learn-Togethers**](http://rubyhabits.github.io) for hands-on coding with blockchain-lite and friends. FREE. 
 
 
-Awewsome Blockchains - Learn about Blockchains by Building One
 
-Schilling on the Blockchain @ Awesome Blockchains - 
+## Blockchain Projects
 
-Tulips on the Blockchain @ Awesome Blockchains -
 
-Blockchain Lite Library (Ruby Edition)
+[**Awewsome Blockchains**](https://github.com/openblockchains/awesome-blockchains) - 
+_Learn about Blockchains by Building One_
 
-Blockchain Lite Library (JavaScript Edition)
+[**Schilling on the Blockchain**](https://github.com/openblockchains/schilling) @ Awesome Blockchains - 
+_Public Distributed (Hyper) Ledger Book - Rock-Solid Alpine Dollar from Austria_
 
-Add Your Project Here
+[**Tulips on the Blockchain**](https://github.com/openblockchains/tulips) @ Awesome Blockchains -
+_Public Distributed (Hyper) Ledger Book - Learn by Example from the Real World (Anno 1637) - 
+Buy! Sell! Hold! Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More_
+
+[**Blockchain Lite Library (Ruby Edition)**](https://github.com/openblockchains/blockchain.lite.rb), FREE
+
+[**Blockchain Lite Library (JavaScript Edition)**](https://github.com/openblockchains/blockchain.lite.js), FREE
+
+
+Add Your Project Here!
 
 
 
@@ -58,7 +70,7 @@ Add Your Project Here
 **More Blockchain Initiatives in Austria**
 
 
-
+[Open Data Austria]()
 
 
 
