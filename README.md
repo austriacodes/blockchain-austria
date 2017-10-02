@@ -88,8 +88,8 @@ with the aim to promote Bitcoin in Austria. We organize regular meetups for ever
 _everyone who is interested in blockchain technology is welcome: explainations, uses case, the future, technology behind. 
 we strongly focus on technical aspects and NOT buzzword presentations._
 
-[**RIAT (Research Institute Austria)**](https://riat.ac.at) -- 
-_institute for research, development, communication and education in the fields of crypto-economics, the blockchain, experimental artistic technology and open hardware_.
+[**RIAT (Research Institute for Arts and Technology) incl. Blockchain Academy**](https://riat.ac.at) -- 
+_institute for research, development, communication and education in the fields of crypto-economics, the blockchain, experimental artistic technology and open hardware._
 
 
 [**Ethereum Vienna, Austria Meetup**](https://meetup.com/Ethereum-Vienna),
@@ -99,6 +99,18 @@ Ethereum is a platform for trustless and decentralized applications.
 Potential examples are simple payments, registrar services, crowdfunding, implementing other currencies, prediction markets, fully decentralized exchanges or even decentralized autonomous organizations.
 We contribute to this movement by bringing together interested locals, enthusiasts and veterans for a meetup in Vienna, Austria._
 
+[**Monero Vienna, Austria Meetup**](https://meetup.com/Monero-Austria) --
+_group for people interested in the cryptocurrency Monero (XMR). The meetup focuses on communicating news from the Monero project and introduces XMR to a wider audience of programmers and non-programmers alike. 
+Topics are for various skill-sets. Meetups are also used to communicate the results of the Monero Workgroup 
+at RIAT (Research Institute for Arts and Technology)._
+
+[**Dogecoin Vienna, Austria Meeupt**](https://meetup.com/Dogecoin-Austria-Meetup) --
+_spreading the Doge in Austria, "Dogecoin Austria Meetup" is hosted by RIAT (Research Institute for Arts and Technology).
+A group about the cryptocurrency Dogecoin - to discuss and reflect about cryptocurrencies as distributed community experiments. 
+Ideal members are people interested in Dogecoin, but can be also people who want to learn and discuss._ 
+
+
+
 [**Hyperledger Vienna, Austria Meetup**](https://meetup.com/Hyperledger-Vienna),
 [(github)](https://github.com/HyperledgerVienna) --
 _hyperledger project is an open source collaborative effort created to advance cross-industry blockchain technologies. 
@@ -106,7 +118,7 @@ It is a global collaboration including leaders in finance, banking, internet of 
 
 
 [**NEM (New Economy Movement) Vienna, Austria Meetup**](https://meetup.com/NEM-Vienna) -- 
-_a group for anyone interested in the NEM (New Economy Movement) blockchain platform or the XEM cryptocurrency. Don't hesitate to join us to get to know more about NEM and the community surrounding it._
+_group for anyone interested in the NEM (New Economy Movement) blockchain platform or the XEM cryptocurrency. Don't hesitate to join us to get to know more about NEM and the community surrounding it._
 
 
 [**Awesome Open Data Austria**](https://github.com/planetopendata/awesome-austria) 
@@ -128,11 +140,11 @@ _a group for anyone interested in the NEM (New Economy Movement) blockchain plat
 |              |                                   |
 | 2015 - Feb   | Bitcoins Available in 600 Trafiken via Bitcoinbon |
 |              |                                   |
-| 2016 - April | Dodgecoin Austria Meetup Started  |
+| 2016 - April | Dogecoin Austria Meetup Started   |
 | 2016 - June  | Blockchainhub Graz Started        |
 |              |                                   |
-| 2017 - Jan   | House of Nakamato Opens (in Vienna) ++ 1st Bitcoin Store |
-| 2017 - April | Monero Austria Started            |
+| 2017 - Jan   | House of Nakamato Opens ++ 1st Bitcoin Store in Austria (Vienna) |
+| 2017 - April | Monero Austria Meetup Started     |
 | 2017 - April | NEM (New Economy Movement) Vienna Meetup Started  |
 | 2017 - July  | Bitcoins Available Nationwide at Post Offices     |
 | 2017 - Oct   | Blockchain Austria (Hacker Ed.) Started  |
