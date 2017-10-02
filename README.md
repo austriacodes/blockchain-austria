@@ -102,7 +102,7 @@ We contribute to this movement by bringing together interested locals, enthusias
 [**Hyperledger Vienna, Austria Meetup**](https://meetup.com/Hyperledger-Vienna),
 [(github)](https://github.com/HyperledgerVienna) --
 _hyperledger project is an open source collaborative effort created to advance cross-industry blockchain technologies. 
-It is a global collaboration including leaders in finance, banking, internet of things (IoT), supply chain, manufacturing and technology.
+It is a global collaboration including leaders in finance, banking, internet of things (IoT), supply chain, manufacturing and technology._
 
 
 [**NEM (New Economy Movement) Vienna, Austria Meetup**](https://meetup.com/NEM-Vienna) -- 
