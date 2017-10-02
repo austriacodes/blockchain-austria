@@ -99,6 +99,11 @@ Ethereum is a platform for trustless and decentralized applications.
 Potential examples are simple payments, registrar services, crowdfunding, implementing other currencies, prediction markets, fully decentralized exchanges or even decentralized autonomous organizations.
 We contribute to this movement by bringing together interested locals, enthusiasts and veterans for a meetup in Vienna, Austria._
 
+[**Hyperledger Vienna, Austria Meetup**](https://meetup.com/Hyperledger-Vienna),
+[(github)](https://github.com/HyperledgerVienna) --
+_hyperledger project is an open source collaborative effort created to advance cross-industry blockchain technologies. 
+It is a global collaboration including leaders in finance, banking, internet of things (IoT), supply chain, manufacturing and technology.
+
 
 [**NEM (New Economy Movement) Vienna, Austria Meetup**](https://meetup.com/NEM-Vienna) -- 
 _a group for anyone interested in the NEM (New Economy Movement) blockchain platform or the XEM cryptocurrency. Don't hesitate to join us to get to know more about NEM and the community surrounding it._
