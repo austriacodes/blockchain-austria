@@ -139,7 +139,7 @@ _group for anyone interested in the NEM (New Economy Movement) blockchain platfo
 | 2016 - April | Dogecoin Austria Meetup Started   |
 | 2016 - June  | Blockchainhub Graz Started        |
 |              |                                   |
-| 2017 - Jan   | House of Nakamato Opens ++ 1st Bitcoin Store in Austria (Vienna) |
+| 2017 - Jan   | House of Nakamoto Opens ++ 1st Bitcoin Store in Austria (Vienna) |
 | 2017 - April | Monero Austria Meetup Started     |
 | 2017 - April | NEM (New Economy Movement) Vienna Meetup Started  |
 | 2017 - July  | Bitcoins Available Nationwide at Post Offices     |
