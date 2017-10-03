@@ -153,7 +153,7 @@ _group for anyone interested in the NEM (New Economy Movement) blockchain platfo
 
 _Tokens, Tokens, Tokens_
 
-[**Hero (Play) Coins on the (Ethereum) Blockchain**](https://herocoin.io) -- 
+[**Hero (Play) Coins on the (Ethereum) Blockchain**](https://herocoin.io), [(contract source scripts)](https://github.com/ByteHeroes/herocoin) -- 
 _Initial Coin Offer of up to 600 million Ethereum "Hero" tokens ++
 Byte Heroes GmbH (Siebenbrunnengasse 17/7, 1050 Vienna, Austria)
 offers for exchange up to 600 million new Ethereum
