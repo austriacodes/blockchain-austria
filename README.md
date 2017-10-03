@@ -46,9 +46,6 @@ Join the [**Ruby Habits Learn-Togethers**](http://rubyhabits.github.io) for hand
 [**Awewsome Blockchains**](https://github.com/openblockchains/awesome-blockchains) -- 
 _Learn about Blockchains by Building One_
 
-[**Schilling on the Blockchain**](https://github.com/openblockchains/schilling) @ Awesome Blockchains -- 
-_Public Distributed (Hyper) Ledger Book - Rock-Solid Alpine Dollar from Austria_
-
 [**Tulips on the Blockchain**](https://github.com/openblockchains/tulips) @ Awesome Blockchains --
 _Public Distributed (Hyper) Ledger Book - Learn by Example from the Real World (Anno 1637) - 
 Buy! Sell! Hold! Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More_
@@ -152,5 +149,30 @@ _group for anyone interested in the NEM (New Economy Movement) blockchain platfo
 
 
 
+## Initial Coin Offerings (ICOs) from Austria
+
+_Tokens, Tokens, Tokens_
+
+[**Hero (Play) Coins on the (Ethereum) Blockchain**](https://herocoin.io) -- 
+_Initial Coin Offer of up to 600 million Ethereum "Hero" tokens ++
+Byte Heroes GmbH (Siebenbrunnengasse 17/7, 1050 Vienna, Austria)
+intends to offer for exchange up to 600 million units of a new Ethereum
+token named "Hero" (ticker "Play") during a limited offer period
+starting 14 September 2017._
+
+_The ICO will have a hard cap at USD $14m. Heros are tokens 
+on the Ethereum-blockchain intended for online betting
+and gaming that reward coin holders for playing across multiple online betting and gaming platforms._
+
+(Source: [Hero Whitepaper (.pdf)](https://s3-cdn.herocoin.io/HERO_Whitepaper.pdf))
+
+_revolutionizing online betting - establishing a new level of trust, transparency and security, yet unknown in the world of online betting; 223,748+ users are already betting on their favourite esports games in the herosphere;
+issued: 57.237.500 Play tokens - unsold tokens will be burned._
+
+
+**In Preparation / Upcoming**
+
+[**Schilling on the Blockchain**](https://github.com/openblockchains/schilling) @ Awesome Blockchains -- 
+_Public Distributed (Hyper) Ledger Book - Rock-Solid Alpine Dollar from Austria_
 
 
