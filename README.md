@@ -156,7 +156,7 @@ _Tokens, Tokens, Tokens_
 [**Hero (Play) Coins on the (Ethereum) Blockchain**](https://herocoin.io) -- 
 _Initial Coin Offer of up to 600 million Ethereum "Hero" tokens ++
 Byte Heroes GmbH (Siebenbrunnengasse 17/7, 1050 Vienna, Austria)
-intends to offer for exchange up to 600 million units of a new Ethereum
+offers for exchange up to 600 million new Ethereum
 token named "Hero" (ticker "Play") during a limited offer period
 starting 14 September 2017._
 
@@ -166,7 +166,7 @@ and gaming that reward coin holders for playing across multiple online betting a
 
 (Source: [Hero Whitepaper (.pdf)](https://s3-cdn.herocoin.io/HERO_Whitepaper.pdf))
 
-_revolutionizing online betting - establishing a new level of trust, transparency and security, yet unknown in the world of online betting; 223,748+ users are already betting on their favourite esports games in the herosphere;
+_Revolutionizing online betting - establishing a new level of trust, transparency and security, yet unknown in the world of online betting; 223,748+ users are already betting on their favourite esports games in the herosphere;
 issued: 57.237.500 Play tokens - unsold tokens will be burned._
 
 
@@ -176,3 +176,4 @@ issued: 57.237.500 Play tokens - unsold tokens will be burned._
 _Public Distributed (Hyper) Ledger Book - Rock-Solid Alpine Dollar from Austria_
 
 
+[Add Your Token Sale Here!](https://github.com/blockchainaustria/blockchainaustria.github.io/blob/master/README.md)
