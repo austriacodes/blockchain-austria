@@ -1,5 +1,5 @@
 
-[Blockchain Austria @ GitHub](https://github.com/blockchainaustria)
+[Blockchain Austria @ GitHub](https://github.com/austriacodes/blockchain-austria)
 
 
 Distributed Database •
