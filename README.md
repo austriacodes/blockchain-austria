@@ -55,7 +55,7 @@ Buy! Sell! Hold! Enjoy the Beauty of Admiral of Admirals, Semper Augustus and Mo
 [**Blockchain Lite Library (JavaScript Edition)**](https://github.com/openblockchains/blockchain.lite.js), FREE
 
 
-[Add Your Project Here!](https://github.com/blockchainaustria/blockchainaustria.github.io/blob/master/README.md)
+[Add Your Project Here!](https://github.com/austriacodes/blockchain-austria/blob/master/README.md)
 
 
 
@@ -119,7 +119,7 @@ _group for anyone interested in the NEM (New Economy Movement) blockchain platfo
 
 [**Awesome Open Data Austria**](https://github.com/planetopendata/awesome-austria) 
 
-[Add Your Initiative Here!](https://github.com/blockchainaustria/blockchainaustria.github.io/blob/master/README.md)
+[Add Your Initiative Here!](https://github.com/austriacodes/blockchain-austria/blob/master/README.md)
 
 
 
@@ -145,7 +145,7 @@ _group for anyone interested in the NEM (New Economy Movement) blockchain platfo
 | 2017 - July  | Bitcoins Available Nationwide at Post Offices     |
 | 2017 - Oct   | Blockchain Austria (Hacker Ed.) Started  |
 
-[Add Your Highlight Here!](https://github.com/blockchainaustria/blockchainaustria.github.io/blob/master/README.md)
+[Add Your Highlight Here!](https://github.com/austriacodes/blockchain-austria/blob/master/README.md)
 
 
 
@@ -172,8 +172,8 @@ issued: 57.237.500 Play tokens - unsold tokens will be burned._
 
 **In Preparation / Upcoming**
 
-[**Schilling on the Blockchain**](https://github.com/openblockchains/schilling) @ Awesome Blockchains -- 
+[**Bitshilling - Shilling (or Schilling) on the Blockchain**](https://github.com/bitshilling) --
 _Public Distributed (Hyper) Ledger Book - Rock-Solid Alpine Dollar from Austria_
 
 
-[Add Your Token Sale Here!](https://github.com/blockchainaustria/blockchainaustria.github.io/blob/master/README.md)
+[Add Your Token Sale Here!](https://github.com/austriacodes/blockchain-austria/blob/master/README.md)
