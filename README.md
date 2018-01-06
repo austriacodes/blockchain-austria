@@ -59,13 +59,19 @@ Buy! Sell! Hold! Enjoy the Beauty of Admiral of Admirals, Semper Augustus and Mo
 
 
 
-## Notes, Comments, Talks, & More
+## Notes, Comments, Talks, Books, & More
 
 [**Talk Notes - Blockchain! Blockchain! Blockchain! - Build Your Own Blockchains in JavaScript from Zero (Scratch)**](https://github.com/geraldb/talks/blob/master/blockchain.md) 
 by Gerald Bauer
 
+[**Talk Notes - Blockchain! Blockchain! Blockchain! - Build Your Own Blockchains in Ruby from Zero (Scratch)**](https://github.com/geraldb/talks/blob/master/blockchain_ruby.md) 
+by Gerald Bauer
+
 [**Talk Notes - Land der Berge! Land der Blockchain! Austria**](https://github.com/geraldb/talks/blob/master/blockchain_austria.md)
 by Gerald Bauer
+
+[**Book - Programming Cryptocurrencies and Blockchains (in Ruby)**](http://yukimotopress.github.io/blockchains) 
+by Gerald Bauer, Yuki & Moto Press, FREE (Online Version) 
 
 
 
