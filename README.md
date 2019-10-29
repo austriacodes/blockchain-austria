@@ -1,21 +1,43 @@
-
-[Blockchain Austria @ GitHub](https://github.com/austriacodes/blockchain-austria)
-
+# Vienna Crypto Programming Meetup / Stammtisch 
 
 Distributed Database •
 Hyper Ledger Book •
 Consensus • Proof-of-Work • Proof-of-Stake • Proof-of-Pudding •
-Digital Fingerprints • Cryptographic Hashes •
+Digital Fingerprints • Cryptographic Hash •
 Lottery • Central Bank •
 Byzantine Generals
 
 
-# Blockchain Austria • Blockkette Österreich (Decentralized Hacker Edition)
+## Meetups & Learn Togethers
+
+_Wien_
+
+We meetup every first Wednesday in a coffee house to contribute to open source, work on personal projects, and teach and learn from one another. Join us.
+
+Upcoming
+
+- Wednesday, November 6th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- Wednesday, December 4th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+
+Note: We meetup in a public coffee house. 
+If you attend you MUST buy a drink for yourself (e.g. a coffee, mineral water, cola, 
+or something).
+Calculate about €3 or €4.
+
+
+
+
+
+
+---
+
+[Blockchain Austria @ GitHub](https://github.com/viennacrypto)
+
+## Blockchain Austria • Blockkette Österreich
 
 _Revolutionize Austria one Block at a Time. Land der Berge! Land der Blockchain!_
 
-
-## What's Blockchain Austria?
+### What's Blockchain Austria?
 
 It's an umbrella organization to learn about Blockchain! Blockchain! Blockchain! together with a focus on Code! Code! Code!
 
@@ -31,16 +53,8 @@ b1 = Block.next( b0,
 ...
 ```
 
-## Meetups, Hands-On Coding Togethers, & More
 
-
-Join the [**Vienna.rb Meetups**](https://meetup.com/vienna-rb) for talks on blockchain-lite and friends. FREE.
-
-Join the [**Ruby Habits Learn-Togethers**](http://rubyhabits.github.io) for hands-on coding with blockchain-lite and friends. FREE. 
-
-
-
-## Blockchain Projects
+### Blockchain Projects
 
 
 [**Awewsome Blockchains**](https://github.com/openblockchains/awesome-blockchains) -- 
@@ -55,11 +69,11 @@ Buy! Sell! Hold! Enjoy the Beauty of Admiral of Admirals, Semper Augustus and Mo
 [**Blockchain Lite Library (JavaScript Edition)**](https://github.com/openblockchains/blockchain.lite.js), FREE
 
 
-[Add Your Project Here!](https://github.com/austriacodes/blockchain-austria/blob/master/README.md)
+[Add Your Project Here!](https://github.com/viennacrypto/viennacrypto.github.io/blob/master/README.md)
 
 
 
-## Notes, Comments, Talks, Books, & More
+### Notes, Comments, Talks, Books, & More
 
 [**Talk Notes - Blockchain! Blockchain! Blockchain! - Build Your Own Blockchains in JavaScript from Zero (Scratch)**](https://github.com/geraldb/talks/blob/master/blockchain.md) 
 by Gerald Bauer
@@ -125,11 +139,11 @@ _group for anyone interested in the NEM (New Economy Movement) blockchain platfo
 
 [**Awesome Open Data Austria**](https://github.com/planetopendata/awesome-austria) 
 
-[Add Your Initiative Here!](https://github.com/austriacodes/blockchain-austria/blob/master/README.md)
+[Add Your Initiative Here!](https://github.com/viennacrypto/viennacrypto.github.io/blob/master/README.md)
 
 
 
-## Timeline of the Blockchain Revolution in Austria
+### Timeline of the Blockchain Revolution in Austria
 
 | Year         | Highlight                         |
 | -------------|-----------------------------------|
@@ -151,11 +165,11 @@ _group for anyone interested in the NEM (New Economy Movement) blockchain platfo
 | 2017 - July  | Bitcoins Available Nationwide at Post Offices     |
 | 2017 - Oct   | Blockchain Austria (Hacker Ed.) Started  |
 
-[Add Your Highlight Here!](https://github.com/austriacodes/blockchain-austria/blob/master/README.md)
+[Add Your Highlight Here!](https://github.com/viennacrypto/viennacrypto.github.io/blob/master/README.md)
 
 
 
-## Initial Coin Offerings (ICOs) from Austria
+### Initial Coin Offerings (ICOs) from Austria
 
 _Tokens, Tokens, Tokens_
 
@@ -182,4 +196,4 @@ issued: 57.237.500 Play tokens - unsold tokens will be burned._
 _Public Distributed (Hyper) Ledger Book - Rock-Solid Alpine Dollar from Austria_
 
 
-[Add Your Token Sale Here!](https://github.com/austriacodes/blockchain-austria/blob/master/README.md)
+[Add Your Token Sale Here!](https://github.com/viennacrypto/viennacrypto.github.io/blob/master/README.md)
