@@ -8,6 +8,9 @@ Lottery • Central Bank •
 Byzantine Generals
 
 
+[Vienna Crypto @ GitHub](https://github.com/viennacrypto)
+
+
 ## Meetups & Learn Togethers
 
 _Wien_
@@ -44,13 +47,12 @@ a Vienna coffee house. In episode 21 guest Gerald Bauer
 talks about ["Programmable Money"](https://developermelange.github.io/021-programmable-money/).
 
 
-[Add your news byte!](https://github.com/viennarb/viennarb.github.io)
+[Add your news byte!](https://github.com/viennacrypto/viennacrypto.github.io)
+
 
 
 
 ---
-
-[Blockchain Austria @ GitHub](https://github.com/viennacrypto)
 
 ## Blockchain Austria • Blockkette Österreich
 
