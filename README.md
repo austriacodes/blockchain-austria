@@ -12,12 +12,12 @@ Byzantine Generals
 
 _Wien_
 
-We meetup every first Wednesday in a coffee house to contribute to open source, work on personal projects, and teach and learn from one another. Join us.
+We meetup every first Wednesday in a coffee house to contribute to open source, work on personal projects, and teach and learn from one another. Join us. 
+
 
 Upcoming
 
-- Wednesday, November 6th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
-- Wednesday, December 4th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- **Wednesday, December 4th, 2019, 7-9pm** @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 Note: We meetup in a public coffee house. 
 If you attend you MUST buy a drink for yourself (e.g. a coffee, mineral water, cola, 
@@ -25,7 +25,26 @@ or something).
 Calculate about €3 or €4.
 
 
+Past
 
+- Wednesday, November 6th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+
+## Topic Highlights
+
+Sept/2019 - Boneh–Lynn–Shacham (BLS) Signatures - Better than Schnorr? - [Pairing Crypto Step-by-Step Programming Tutorial](https://github.com/JanKaul/pairing_crypto_tutorial) (in Rust) by Jan Kaul
+
+May/2019 - [(Programming) Private Transactions with Mimblewimble](https://github.com/JanKaul/rust_mimblewimble_tutorial) (in Rust) by Jan Kaul
+
+
+
+## News
+
+Oct/2019 -  [Developer Melange](https://developermelange.github.io) is a monthly podcast / talk recording in
+a Vienna coffee house. In episode 21 guest Gerald Bauer
+talks about ["Programmable Money"](https://developermelange.github.io/021-programmable-money/).
+
+
+[Add your news byte!](https://github.com/viennarb/viennarb.github.io)
 
 
 
