@@ -1,5 +1,7 @@
 # Vienna Crypto Programming Meetup / Stammtisch 
 
+[Vienna Crypto @ GitHub](https://github.com/viennacrypto)
+
 Distributed Database •
 Hyper Ledger Book •
 Consensus • Proof-of-Work • Proof-of-Stake • Proof-of-Pudding •
@@ -7,8 +9,6 @@ Digital Fingerprints • Cryptographic Hash •
 Lottery • Central Bank •
 Byzantine Generals
 
-
-[Vienna Crypto @ GitHub](https://github.com/viennacrypto)
 
 
 ## Meetups & Learn Togethers
