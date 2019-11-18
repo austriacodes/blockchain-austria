@@ -42,13 +42,15 @@ May/2019 - [(Programming) Private Transactions with Mimblewimble](https://github
 
 ## News
 
+April/2020 - [EDCON 2020](https://www.edcon.io) is a yearly world Ethereum Development Conference
+that happens April 3-7, 2020 right here in Vienna, Austria (the last stops where in Sydney, Toronto and Paris in 2019, 2018 and 2017).
+
 Oct/2019 -  [Developer Melange](https://developermelange.github.io) is a monthly podcast / talk recording in
 a Vienna coffee house. In episode 21 guest Gerald Bauer
 talks about ["Programmable Money"](https://developermelange.github.io/021-programmable-money/).
 
 
 [Add your news byte!](https://github.com/viennacrypto/viennacrypto.github.io)
-
 
 
 
