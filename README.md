@@ -20,7 +20,9 @@ We meetup every first Wednesday in a coffee house to contribute to open source, 
 
 Upcoming
 
-- **Wednesday, December 4th, 2019, 7-9pm** @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- **Wednesday, January 8th, 2020**, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- Wednesday, February 5th, 2020, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- Wednesday, March 4th, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 Note: We meetup in a public coffee house. 
 If you attend you MUST buy a drink for yourself (e.g. a coffee, mineral water, cola, 
@@ -28,9 +30,14 @@ or something).
 Calculate about €3 or €4.
 
 
+
 Past
 
+Happy New Year - Prosit 2020!
+
+- Wednesday, December 4th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Wednesday, November 6th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+
 
 ## Topic Highlights
 
@@ -44,6 +51,8 @@ May/2019 - [(Programming) Private Transactions with Mimblewimble](https://github
 
 April/2020 - [EDCON 2020](https://www.edcon.io) is a yearly world Ethereum Development Conference
 that happens April 3-7, 2020 right here in Vienna, Austria (the last stops where in Sydney, Toronto and Paris in 2019, 2018 and 2017).
+
+Jan/2020 - Celebrating 11 Years of Bitcoin Blockchain on January 3rd @ [Bitcoin Austria Meetup No. 73](https://meetup.com/Bitcoin-Austria/events/264931723). Free.
 
 Oct/2019 -  [Developer Melange](https://developermelange.github.io) is a monthly podcast / talk recording in
 a Vienna coffee house. In episode 21 guest Gerald Bauer
