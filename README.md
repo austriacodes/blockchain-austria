@@ -165,10 +165,6 @@ _hyperledger project is an open source collaborative effort created to advance c
 It is a global collaboration including leaders in finance, banking, internet of things (IoT), supply chain, manufacturing and technology._
 
 
-[**NEM (New Economy Movement) Vienna, Austria Meetup**](https://meetup.com/NEM-Vienna) -- 
-_group for anyone interested in the NEM (New Economy Movement) blockchain platform or the XEM cryptocurrency. Don't hesitate to join us to get to know more about NEM and the community surrounding it._
-
-
 [**Awesome Open Data Austria**](https://github.com/planetopendata/awesome-austria) 
 
 [Add Your Initiative Here!](https://github.com/viennacrypto/viennacrypto.github.io/blob/master/README.md)
