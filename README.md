@@ -29,7 +29,6 @@ or something).
 Calculate about €3 or €4.
 
 
-
 Past
 
 - Wednesday, January 8th, 2020, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
@@ -46,6 +45,10 @@ Sept/2019 - Boneh–Lynn–Shacham (BLS) Signatures - Better than Schnorr? - [Pa
 
 May/2019 - [(Programming) Private Transactions with Mimblewimble](https://github.com/JanKaul/rust_mimblewimble_tutorial) (in Rust) by Jan Kaul
 
+
+## Jobs, Jobs, Jobs
+
+Jan/2020 - [Bitpanda](https://www.bitpanda.com) CTO [Christian Trummer](https://twitter.com/christiant5r) is looking for [Crypto Programmers](https://www.bitpanda.com/en/career)! The office is just around the corner in Jakov-Lind-Straße 2, 1020 Wien (Leopoldstadt)
 
 
 ## News
