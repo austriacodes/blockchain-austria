@@ -20,8 +20,7 @@ We meetup every first Wednesday in a coffee house to contribute to open source, 
 
 Upcoming
 
-- **Wednesday, January 8th, 2020**, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
-- Wednesday, February 5th, 2020, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+- **Wednesday, February 5th, 2020, 7-9pm** @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Wednesday, March 4th, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 Note: We meetup in a public coffee house. 
@@ -32,6 +31,8 @@ Calculate about €3 or €4.
 
 
 Past
+
+- Wednesday, January 8th, 2020, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 Happy New Year - Prosit 2020!
 
@@ -51,6 +52,8 @@ May/2019 - [(Programming) Private Transactions with Mimblewimble](https://github
 
 April/2020 - [EDCON 2020](https://www.edcon.io) is a yearly world Ethereum Development Conference
 that happens April 3-7, 2020 right here in Vienna, Austria (the last stops where in Sydney, Toronto and Paris in 2019, 2018 and 2017).
+
+Jan/2020 - Work on [Bits & Blocks Press Bookshelf](https://bitsblocks.github.io) continues - Free Books about Bitcoins, Blockchains, Contract Scripts & More - All About the Digital Future of Unique Bits & Bytes; Started on adding [Crypto is the Mother of All Scams and (Now Busted) Bubbles - While Blockchain Is The Most Over-Hyped Technology Ever, No Better than a Spreadsheet/Database by Nouriel Roubini](https://github.com/bitsblocks/crypto-bubbles) 
 
 Jan/2020 - Celebrating 11 Years of Bitcoin Blockchain on January 3rd @ [Bitcoin Austria Meetup No. 73](https://meetup.com/Bitcoin-Austria/events/264931723). Free.
 
