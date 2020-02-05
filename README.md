@@ -20,7 +20,7 @@ We meetup every first Wednesday in a coffee house (or in an institute for resear
 
 Upcoming
 
-- **Wednesday, March 4th, 2020, 7-9pm**  @ [RIAT - Institute for Future Cryptoeconomics](https://riat.at/), Neubaugasse 64-66/ III / 4 (Stiege 3, Hochparterre), 1030 Wien (Neubau)
+- **Wednesday, March 4th, 2020, 7-9pm**  @ [RIAT - Institute for Future Cryptoeconomics](https://riat.at/), Neubaugasse 64-66/ III / 4 (Stiege 3, Hochparterre, Tür 4), 1030 Wien (Neubau)
 
 
 <details markdown="1">
