@@ -20,23 +20,26 @@ We meetup every first Wednesday in a coffee house to contribute to open source, 
 
 Upcoming
 
-- **Wednesday, February 5th, 2020, 7-9pm** @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
-- Wednesday, March 4th, 2020, 7-9pm  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
-
-Note: We meetup in a public coffee house. 
-If you attend you MUST buy a drink for yourself (e.g. a coffee, mineral water, cola, 
-or something).
-Calculate about €3 or €4.
+- **Wednesday, March 4th, 2020, 7-9pm**  @ [RIAT - Institute for Future Cryptoeconomics](https://riat.at/), Neubaugasse 64-66/ III / 4 (Stiege 3, Hochparterre), 1030 Wien (Neubau)
 
 
-Past
+<details markdown="1">
+<summary>Past</summary>
 
+- Wednesday, February 5th, 2020, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Wednesday, January 8th, 2020, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 Happy New Year - Prosit 2020!
 
 - Wednesday, December 4th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Wednesday, November 6th, 2019, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
+
+Note: We meetup in a public coffee house. 
+If you attend you MUST buy a drink for yourself (e.g. a coffee, mineral water, cola, 
+or something).
+Calculate about €3 or €4.
+
+</details>
 
 
 ## Topic Highlights
