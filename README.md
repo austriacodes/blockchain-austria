@@ -141,7 +141,7 @@ by Gerald Bauer, Yuki & Moto Press, FREE (Online Version)
 _we are an austrian non-profit organization founded 2011
 with the aim to promote Bitcoin in Austria. We organize regular meetups for everyone interested in Bitcoin._
 
-[**RIAT (Research Institute for Arts and Technology) incl. Blockchain Academy**](https://riat.ac.at) -- 
+[**RIAT (Research Institute for Arts and Technology) incl. Blockchain Academy**](https://riat.at) -- 
 _institute for research, development, communication and education in the fields of crypto-economics, the blockchain, experimental artistic technology and open hardware._
 
 
