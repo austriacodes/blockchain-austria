@@ -15,7 +15,7 @@ Byzantine Generals
 
 _Wien_
 
-We meetup every first Wednesday in a coffee house (or in an institute for research) to contribute to open source, work on personal projects, and teach and learn from one another. Join us. 
+We meetup every first Wednesday in a coffee house (or an institute for research) to contribute to open source, work on personal projects, and teach and learn from one another. Join us. 
 
 
 Upcoming
