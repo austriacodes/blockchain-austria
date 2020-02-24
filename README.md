@@ -56,8 +56,8 @@ Jan/2020 - [Bitpanda](https://www.bitpanda.com) CTO [Christian Trummer](https://
 
 ## News
 
-April/2020 - [EDCON 2020](https://www.edcon.io) is a yearly world Ethereum Development Conference
-that happens April 3-7, 2020 right here in Vienna, Austria (the last stops where in Sydney, Toronto and Paris in 2019, 2018 and 2017).
+/
+April/2020 - [NONCON 2020](https://noncon.org) is a morecommunity-oriented replacement for this year's canceled yearly EDCON world Ethereum Development Conference that happens April 3-7, 2020 right here in Vienna, Austria (the last stops where in Sydney, Toronto and Paris in 2019, 2018 and 2017).
 
 Jan/2020 - Work on the [Bits & Blocks Press Bookshelf](https://bitsblocks.github.io) continues - Free Books about Bitcoins, Blockchains, Contract Scripts & More - All About the Digital Future of Unique Bits & Bytes; Started on adding [Crypto is the Mother of All Scams and (Now Busted) Bubbles - While Blockchain Is The Most Over-Hyped Technology Ever, No Better than a Spreadsheet/Database by Nouriel Roubini](https://github.com/bitsblocks/crypto-bubbles) 
 
