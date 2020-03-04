@@ -15,17 +15,17 @@ Byzantine Generals
 
 _Wien_
 
-We meetup every first Wednesday in a coffee house (or an institute for research) to contribute to open source, work on personal projects, and teach and learn from one another. Join us. 
+We meetup every first Wednesday in a coffee house to contribute to open source, work on personal projects, and teach and learn from one another. Join us. 
 
 
 Upcoming
 
-- **Wednesday, March 4th, 2020, 7-9pm**  @ [RIAT - Institute for Future Cryptoeconomics](https://riat.at/), Neubaugasse 64-66/ III / 4 (Stiege 3, Hochparterre, Tür 4), 1070 Wien (Neubau)
-
+- **Wednesday, April 8th, 2020, 7-9pm**  @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
 <details markdown="1">
 <summary>Past</summary>
 
+- Wednesday, March 4th, 2020, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Wednesday, February 5th, 2020, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 - Wednesday, January 8th, 2020, 7-9pm @ Segafredo Espresso Praterstern, Bahnhof Wien Nord, 1020 Wien (Leopoldstadt)
 
